@@ -1,0 +1,11 @@
+{
+  "name": "practice-layzr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "layzr.js": "^2.2.2",
+    "muuri": "^0.9.5"
+  }
+}
